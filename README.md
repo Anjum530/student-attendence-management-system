@@ -68,3 +68,19 @@ student-attendence-management-system/
 Anjum Jahan
 B.Tech Computer Science & Artificial Intelligence
 =======
+## 📸 Website Screenshots
+
+### 🏠 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 👨‍🎓 Students
+![Students](screenshots/students.png)
+
+### 📚 Subjects
+![Subjects](screenshots/subjects.png)
+
+### 📝 Attendance
+![Attendance](screenshots/attendance.png)
+
+### 📊 Reports
+![Reports](screenshots/reports.png)
