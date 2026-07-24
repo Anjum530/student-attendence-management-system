@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Attendance Management System using ShaktiDB
 
 ## Project Overview
@@ -14,7 +15,7 @@ This project is a database-based Student Attendance Management System developed 
 - Student Management (Add, View, Update, Delete)
 - Subject Management
 - Attendance Management
-- Student-wise Attendance Report
+- Student-wise Attendance Reportcat README.md
 - Subject-wise Attendance Report
 - Attendance Percentage Report
 - Present vs Absent Summary
@@ -66,3 +67,4 @@ student-attendence-management-system/
 ## Author
 Anjum Jahan
 B.Tech Computer Science & Artificial Intelligence
+=======
